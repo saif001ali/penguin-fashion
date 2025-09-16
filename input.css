@@ -1,2 +1,18 @@
 /* this import makes tailwindCSS extension work */
-@import "tailwindcss"
+@import "tailwindcss";
+/* Fonts imported--------- */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+.roboto-font {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .font-bebas-neue {
+    font-family: "Bebas Neue", sans-serif;
+  }
+  
